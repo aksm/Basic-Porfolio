@@ -75,9 +75,20 @@ article {
 	margin-bottom: 20px;
 	margin-right: 20px;
 	float: left;
+	width: 160px;
+ 	height: 160px;
+ 	background-image: url(../../assets/images/amindwi.gif);
+ 	background-position: 0 0;
+}
+#userpic:hover {
+	background-position: 0 100%;
 }
 #about_me_text {
 	float: left;
+}
+#lh {
+	line-height: 140%;
+	text-align: justify;
 }
 blockquote {
 	margin-top: 25px;
