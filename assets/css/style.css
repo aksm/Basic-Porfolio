@@ -61,7 +61,7 @@ section {
 	min-width: 1186px;
 }
 article {
-	width: 650px;
+	width: 590px;
 	background-color: #ffffff;
 	color: #777777;
 	margin-left: 90px;
@@ -128,7 +128,7 @@ blockquote:before {
 	float: left;
 	margin-left: 0;
 	padding-top: 12px;
-	width: 650px;
+	width: 590px;
 }
 .portfolio_rows {
 	display: block;
