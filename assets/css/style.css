@@ -86,9 +86,10 @@ article {
 #about_me_text {
 	float: left;
 }
-#lh {
+#my_text {
 	line-height: 140%;
 	text-align: justify;
+	margin-top: 20px;
 }
 blockquote {
 	margin-top: 25px;
@@ -215,4 +216,19 @@ footer {
 	padding-bottom: 40px;
 	clear: both;
 	min-width: 1186px;
+}
+* {
+margin: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+footer, .push {
+height: 4em;
 }
