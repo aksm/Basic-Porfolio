@@ -83,6 +83,13 @@ article {
 #userpic:hover {
 	background-position: 0 100%;
 }
+#about_me_divider {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	height: 2px;
+	background-color: #dddddd;
+	border: 0;
+}
 #about_me_text {
 	float: left;
 }
@@ -120,10 +127,13 @@ blockquote:before {
 	border: 2px solid #dddddd;
 }
 #connect_divider {
-	width: 135px;
+	width: 170px;
 	background: #efefef;
 	border: 0;
 	height: 2px;
+	margin-left: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 #connect_icons {
 	padding: 0;
@@ -135,6 +145,10 @@ blockquote:before {
 #portfolio_divider {
 	width: 590px;
 	margin: 0;
+	margin-top: 40px;
+	height: 2px;
+	background-color: #dddddd;
+	border: 0;
 }
 #portfolio_table {
 	float: left;
@@ -182,6 +196,10 @@ figcaption {
 #contact_divider {
 	width: 588px;
 	margin-left: 0;
+	margin-top: 40px;
+	height: 2px;
+	background-color: #dddddd;
+	border: 0;
 }
 #name, #email{
 	height: 35px;
